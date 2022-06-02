@@ -1,2 +1,1 @@
-# d365
-# d365
+dynamics365 bootcamp tasks
