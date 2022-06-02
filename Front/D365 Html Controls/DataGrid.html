@@ -1,0 +1,32 @@
+<html><head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="https://org6503dd14.crm4.dynamics.com//WebResources/cread_data_grid_css">
+    <script src="ClientGlobalContext.js.aspx" type="text/javascript"></script>
+    <!-- <script src="DataGridJS.js"></script> -->
+    <script src="https://org6503dd14.crm4.dynamics.com//WebResources/cread_data_grid_js"></script>
+<meta><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta></head>
+<body onload="onLoad()" onfocusout="parent.setEmailRange();" style="overflow-wrap: break-word;">
+    <table align="right">
+        <tbody><tr>
+            <td><img id="add" src="cread_add" width="22px" height="22px"></td>
+            <td><img id="refresh" src=" cread_refresh" width="22px" height="22px"></td>
+            <td><img id="delete" src=" cread_delete" width="22px" height="22px"></td>
+            <td><img id="save" src="cread_save" width="22px" height="22px"></td>
+        </tr>
+    </tbody></table>
+    <table id="dataTable" class="styled-table" width="100%">
+        <thead>
+            <tr>
+                <th onclick="sort(this)" fieldname="accountName">Account</th>
+                <th onclick="sort(this)" fieldname="contactName">Contact</th>
+                <th onclick="sort(this)" fieldname="employmentDate">Employment Date</th>
+                <th onclick="sort(this)" fieldname="positionName">Position</th>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+            
+        </tbody>
+    </table>
+
+</body></html>

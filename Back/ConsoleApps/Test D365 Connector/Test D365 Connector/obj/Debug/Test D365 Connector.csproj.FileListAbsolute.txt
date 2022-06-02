@@ -1,0 +1,71 @@
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Test D365 Connector.exe.config
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Test D365 Connector.exe
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Test D365 Connector.pdb
+D:\Test C#\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.csprojAssemblyReference.cache
+D:\Test C#\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.csproj.CoreCompileInputs.cache
+D:\Test C#\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.exe
+D:\Test C#\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.pdb
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Newtonsoft.Json.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Buffers.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Memory.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Numerics.Vectors.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Text.Encodings.Web.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Text.Json.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.ValueTuple.dll
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Buffers.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Memory.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Numerics.Vectors.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Text.Encodings.Web.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Test C#\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.csproj.CopyComplete
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Test D365 Connector.exe.config
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Test D365 Connector.exe
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Test D365 Connector.pdb
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Buffers.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Memory.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Text.Json.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.ValueTuple.dll
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Buffers.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Memory.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.csproj.AssemblyReference.cache
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.csproj.SuggestedBindingRedirects.cache
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.csproj.CoreCompileInputs.cache
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.csproj.CopyComplete
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.exe
+C:\Users\artar\Desktop\Test D365 Connector\Test D365 Connector\obj\Debug\Test D365 Connector.pdb
